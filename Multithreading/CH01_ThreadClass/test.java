@@ -1,4 +1,4 @@
-package Multithreading.ThreadClass;
+package Multithreading.CH01_ThreadClass;
 
 public class test {
     public static void main(String[] args) {

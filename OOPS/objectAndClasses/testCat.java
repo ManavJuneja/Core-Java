@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.objectAndClasses;
 
 public class testCat {
     public static void main(String[] args) {

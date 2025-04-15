@@ -1,4 +1,4 @@
-package OOPS.inheritance;
+package OOPS.polymorphism;
 
 public class Animal {
     private String name;
@@ -7,6 +7,7 @@ public class Animal {
     public void speak(){
         System.out.println("speak");
     }
+
     public String getName() {
         return name;
     }

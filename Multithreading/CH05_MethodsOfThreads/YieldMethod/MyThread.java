@@ -1,4 +1,4 @@
-package Multithreading.MethodsOfThreads.YieldMethod;
+package Multithreading.CH05_MethodsOfThreads.YieldMethod;
 
 public class MyThread extends Thread{
     public MyThread(String name){

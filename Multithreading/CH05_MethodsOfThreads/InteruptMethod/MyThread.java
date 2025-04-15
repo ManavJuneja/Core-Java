@@ -1,4 +1,4 @@
-package Multithreading.MethodsOfThreads.InteruptMethod;
+package Multithreading.CH05_MethodsOfThreads.InteruptMethod;
 
 public class MyThread extends Thread{
     @Override

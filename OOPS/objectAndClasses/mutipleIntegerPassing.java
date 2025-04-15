@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.objectAndClasses;
 
 public class mutipleIntegerPassing {
     public static void main(String[] args) {

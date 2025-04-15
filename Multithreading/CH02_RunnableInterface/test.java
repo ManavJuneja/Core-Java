@@ -1,4 +1,4 @@
-package Multithreading.RunnableInterface;
+package Multithreading.CH02_RunnableInterface;
 
 public class test {
     public static void main(String[] args) {

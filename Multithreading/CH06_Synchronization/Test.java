@@ -1,4 +1,4 @@
-package Multithreading.Synchonizationss;
+package Multithreading.CH06_Synchronization;
 
 public class Test {
     public static void main(String[] args) {

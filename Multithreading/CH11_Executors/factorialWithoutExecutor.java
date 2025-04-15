@@ -1,7 +1,7 @@
 package Multithreading.CH11_Executors;
 
-public class factorial {
-
+public class factorialWithoutExecutor {
+//saab kuch hum hi kar rahe ha
     public static void main(String[] args) throws InterruptedException {
         long startTime = System.currentTimeMillis();
         Thread[] threads = new Thread[9];

@@ -1,10 +1,6 @@
-package OOPS.multipleInheritance;
+package OOPS.interfacess.multipleInheritance;
 
-public class Camera {
-    void clickPhoto(){
-        System.out.println("Click Photo");
-    }
-    void powerOn(){
-        System.out.println("Power On");
-    }
+public interface Camera {
+    void clickPhoto();
+    void powerOn();
 }

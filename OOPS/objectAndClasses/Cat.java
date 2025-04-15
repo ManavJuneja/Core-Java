@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.objectAndClasses;
 
 public class Cat {
     public String name;

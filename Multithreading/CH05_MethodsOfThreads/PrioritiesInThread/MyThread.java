@@ -1,4 +1,4 @@
-package Multithreading.MethodsOfThreads.PrioritiesInThread;
+package Multithreading.CH05_MethodsOfThreads.PrioritiesInThread;
 
 public class MyThread extends Thread{
     @Override

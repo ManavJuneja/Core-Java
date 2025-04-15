@@ -1,4 +1,4 @@
-package Multithreading.MethodsOfThreads.BasicMethods;
+package Multithreading.CH05_MethodsOfThreads.BasicMethods;
 
 public class MyThreads extends Thread{
     @Override

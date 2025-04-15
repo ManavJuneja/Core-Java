@@ -1,11 +1,11 @@
-package OOPS.inheritance;
+package OOPS.polymorphism;
 
 public class test {
     public static void main(String[] args) {
-        Dog d1 = new Dog();
-        d1.setName("mauli");
-        d1.setAge(21);
-        System.out.println(d1.getName() + d1.getAge());
-        d1.speak();
+        Animal dog = new Dog();
+        dog.speak();
+//        dog.bye();// can't call because reference to animal ka haa and call wahi wahi karskteh ha jo animal mein present ha
+        Animal cat = new Cat();
+        cat.speak();
     }
 }

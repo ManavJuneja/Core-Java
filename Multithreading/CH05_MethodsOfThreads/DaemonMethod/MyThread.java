@@ -1,4 +1,4 @@
-package Multithreading.MethodsOfThreads.DaemonMethod;
+package Multithreading.CH05_MethodsOfThreads.DaemonMethod;
 
 public class MyThread extends Thread{
     @Override

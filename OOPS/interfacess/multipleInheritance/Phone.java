@@ -1,2 +1,5 @@
-package OOPS.interfacess.multipleInheritance;public interface Phone {
+package OOPS.interfacess.multipleInheritance;
+
+public interface Phone {
+    void forCall();
 }

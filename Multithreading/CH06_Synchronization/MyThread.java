@@ -1,4 +1,4 @@
-package Multithreading.Synchonizationss;
+package Multithreading.CH06_Synchronization;
 
 public class MyThread extends Thread{
     private Counter counter;

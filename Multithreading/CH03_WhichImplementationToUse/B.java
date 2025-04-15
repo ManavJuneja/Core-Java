@@ -1,4 +1,4 @@
-package Multithreading.WhichImplementationToUse;
+package Multithreading.CH03_WhichImplementationToUse;
 
 public class B {
 }
