@@ -1,5 +1,9 @@
 package CollectionFramework.CH02_List.CH02_02_Comparator;
+/*
+Comparable is used to define the natural ordering of objects (implements compareTo() in the class itself).
 
+Comparator is used for custom ordering (implements compare() in a separate class or using lambda).
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
